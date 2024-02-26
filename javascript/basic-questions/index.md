@@ -2,7 +2,7 @@
 
 ### JavaScript Execution Context is the environment in which JavaScript code is executed
 
-### The two main components of an execution context in JavaScript are
+### Two main components of an execution context in JavaScript are
 
 - ## Memory Component (variable environment)
 
