@@ -1,4 +1,4 @@
-1. ## Have you implemented code spliting in your projects?
+## 1. Have you implemented code spliting in your projects?
 
 Absolutely, I've had experience implementing code splitting in Next.js projects. Code splitting is vital for optimizing web application performance by breaking down the code into smaller bundles that can be loaded as needed. In the context of Next.js, code splitting is seamlessly integrated, primarily through automatic code splitting and dynamic imports.
 
@@ -12,7 +12,7 @@ To ensure effective code splitting, I adhere to best practices such as identifyi
 
 Overall, my experience with code splitting in Next.js projects has been valuable in delivering high-performance web applications while maintaining a smooth user experience.
 
-2. ## What challenges have you faced while implementing code splitting, and how did you overcome them?
+## 2.What challenges have you faced while implementing code splitting, and how did you overcome them?
 
 One challenge I encountered while implementing code splitting was ensuring proper module boundaries. Initially, I found that without careful planning, splitting modules could lead to fragmented code and circular dependencies, which made the codebase difficult to manage. To overcome this, I took a step back and conducted a thorough analysis of the application's architecture. I identified clear module boundaries based on functionality and dependencies, ensuring that each split module was cohesive and had well-defined interfaces. This approach helped streamline the codebase and improve maintainability.
 
